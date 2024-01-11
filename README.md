@@ -21,3 +21,6 @@ This project focuses on segmenting customers for a large automobile company, lev
 - **Silhouette Score:** Employing the Silhouette Score to validate the quality of the clusters formed, aiding in the assessment of segmentation effectiveness
 
 Feel free to reach out for any questions or suggestions. Let's transform data into actionable insights for strategic decision-making !
+
+
+![segments](https://github.com/IsraeMabrouk/Customer-Segmentation/assets/156203959/e4e7f9f5-6c15-4ffe-82ae-d96f4d16f508)
