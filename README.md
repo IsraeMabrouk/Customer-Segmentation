@@ -23,4 +23,6 @@ This project focuses on segmenting customers for a large automobile company, lev
 Feel free to reach out for any questions or suggestions. Let's transform data into actionable insights for strategic decision-making !
 
 
+## Final customer segments
+
 ![segments](https://github.com/IsraeMabrouk/Customer-Segmentation/assets/156203959/e4e7f9f5-6c15-4ffe-82ae-d96f4d16f508)
