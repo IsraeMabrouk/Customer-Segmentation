@@ -1,4 +1,5 @@
-Welcome to the Customer Segmentation Project repository! This project focuses on segmenting customers for a major automobile company, leveraging data-driven insights to enhance marketing and service strategies. By employing advanced data science techniques, including machine learning algorithms, we aim to categorize the customer base into distinct segments, providing the company with a deeper understanding of their clientele.
+Welcome to the Customer Segmentation Project repository!
+This project focuses on segmenting customers for a large automobile company, leveraging data-driven insights to enhance marketing and service strategies. By employing advanced data science techniques, including machine learning algorithms, we aim to categorize the customer base into distinct segments, providing the company with a deeper understanding of their clientele.
 
 ## Project Highlights
 - **Data Exploration:** Dive into the world of the automobile industry with an in-depth exploration of customer data, uncovering patterns and trends that drive business decisions.
